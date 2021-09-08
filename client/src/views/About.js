@@ -17,7 +17,7 @@ const About = () => {
 			<Col className='text-center'>
 				<Button
 					variant='primary'
-					href='https://www.https://github.com/goodboyhay'
+					href='https://github.com/goodboyhay'
 					size='lg'
 				>
 					GitHub
